@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueOakData
 - 👀 I’m interested in Analytics Engineering
-- 🌱 I’m currently learning how to build a data pipeline in Python, Data Governance, and GA4
+- 🌱 I’m joining [OPF Academy](https://www.opf.degree/academy)'s Cohort 7
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've been to more countries than U.S. States
 
